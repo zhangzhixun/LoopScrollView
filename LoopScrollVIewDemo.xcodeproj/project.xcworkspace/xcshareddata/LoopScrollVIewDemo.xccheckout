@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3A2FD50A-236B-485B-BDB7-956D74112B0E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LoopScrollVIewDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>94A1F9F9-F5AB-4D9D-9E1F-0E872FE24E73</key>
+		<string>https://github.com/zhangzhixun/LoopScrollView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LoopScrollVIewDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>94A1F9F9-F5AB-4D9D-9E1F-0E872FE24E73</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zhangzhixun/LoopScrollView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>94A1F9F9-F5AB-4D9D-9E1F-0E872FE24E73</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>94A1F9F9-F5AB-4D9D-9E1F-0E872FE24E73</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LoopScrollView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
