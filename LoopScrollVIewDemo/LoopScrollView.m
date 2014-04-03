@@ -161,11 +161,11 @@
 
 - (void)scrollViewDidEndDragging:(UIScrollView *)scrollView willDecelerate:(BOOL)decelerate{
     self.autoScrollEnabled = YES;
-    
+    scrollView.userInteractionEnabled = NO;
 }
 
 - (void)scrollViewDidEndDecelerating:(UIScrollView *)scrollView{
-    
+    scrollView.userInteractionEnabled = YES;
     int page = [self getTempPage:scrollView];
     int width = scrollView.bounds.size.width;
     
